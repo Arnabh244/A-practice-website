@@ -151,7 +151,7 @@ h2{
     content: " ";
     margin: 30px auto;
 }
-.family-section{
+.Certi-section{
     text-align: center;
     background-color: rgba(204, 199, 199, 0.884);
     padding-top: 30px;
@@ -180,7 +180,7 @@ h2{
     opacity: 1;
     transition:transform 1s,opacity 1s;
 }
-.family-person{
+.Certi-person{
     color: #fff;
 }
 
@@ -201,19 +201,19 @@ h2{
     display: block;
     margin-bottom: 30px;
 }
-/*** FRIENDS SECTION ***/
-.friends-section{
+/*** Travel SECTION ***/
+.Travel-section{
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
 }
-.friend-img{
+.Loc-img{
     width: 100%;
     height: auto;
     overflow: hidden;
     background-color: #000;
 }
-.friends-section img{
+.Travel-section img{
     display: block;
     width: 105%;
     float: left;
